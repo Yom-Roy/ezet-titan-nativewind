@@ -1,6 +1,6 @@
 {
   "name": "ezet-titan-nativewind",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Auto setup for NativeWind in Expo & React Native",
   "license": "ISC",
   "author": "Ezet Industries",
@@ -14,7 +14,7 @@
     "nativewind-setup"
   ],
   "bin": {
-    "tit-nativewind": "bin/cli.js"
+    "tit-setup": "bin/cli.js"
   },
   "dependencies": {
     "chalk": "^5.0.0",

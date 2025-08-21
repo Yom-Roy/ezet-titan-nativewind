@@ -13,13 +13,13 @@ You can install the package globally (recommended) or as a dev dependency in you
 ### Global install
 
 ```bash
-npm install -g ezet-titan-nativewind
+npm i -g ezet-titan-nativewind
 ````
 
 ### Local install
 
 ```bash
-npm install --save-dev ezet-titan-nativewind
+npm i --save-dev ezet-titan-nativewind
 ```
 
 ---
@@ -29,7 +29,7 @@ npm install --save-dev ezet-titan-nativewind
 After installation, simply run the command:
 
 ```bash
-tit-nativewind
+npx tit-setup
 ```
 
 This will automatically:
@@ -53,13 +53,13 @@ This will automatically:
 2. Run the setup command:
 
    ```bash
-   tit-nativewind
+   npx tit-setup
    ```
 
 3. Start the project:
 
    ```bash
-   npm run start
+   npm start
    ```
 
 Now you’re ready to use **Tailwind CSS classes** inside your React Native components ✨
@@ -70,7 +70,7 @@ Now you’re ready to use **Tailwind CSS classes** inside your React Native comp
 
 | Command          | Description                           |
 | ---------------- | ------------------------------------- |
-| `tit-nativewind` | Run auto-setup for NativeWind project |
+| `npx tit-setup` | Run auto-setup for NativeWind project |
 
 ---
 
